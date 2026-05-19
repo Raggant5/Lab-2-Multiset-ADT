@@ -77,7 +77,10 @@ Note: this can be a different team that you will work with for the rest of the t
 - [ ] When someone on your team has made a pull request, a subset of your team should take the time
   to review it. You can pull their branch from the remote repository and try running the code locally
   and also review the code on GitHub. Practice giving both verbal feedback (in person) and written feedback
-  (on GitHub) during the lab today.
+  (on GitHub) during the lab today. 
+- ***** HOW TO KNOW THE NAME OF THE BRANCH TO CHECKOUT... git checkout branch_name just creates a new branch or gets the
+- the copy of the branch that has been pushed to remote?? I think how you know the name is that the name of the branch
+- is in their pull request *****
 
 - [ ] Once everyone has made a successful pull request and had it merged in, your team should continue
   working to add more of the functionality in order to practice the branch and merge workflow.
