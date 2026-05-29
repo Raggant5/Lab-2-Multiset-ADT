@@ -39,5 +39,5 @@ public abstract class MultiSet {
     /**
      * Return how many items are in the entire multiset.
      */
-    abstract int sixe();
+    abstract int siqe();
 }
